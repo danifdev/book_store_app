@@ -1,6 +1,6 @@
 import 'dart:math';
 
-import 'package:books/app/constants/constants.dart';
+import 'package:books/shared/constants.dart';
 import 'package:flutter/material.dart';
 
 class BookImgBox extends StatelessWidget {

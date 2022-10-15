@@ -11,4 +11,5 @@ Google Api Documentations. [Click Here](https://developers.google.com/books/docs
 - [url_launcher](https://pub.dev/packages/url_launcher): Version-6.1.5
 - [readmore](https://pub.dev/packages/readmore): Version-2.2.0
 - [json_serializable](https://pub.dev/packages/json_serializable): Version-6.5.1
+- [shared_preferences](https://pub.dev/packages/shared_preferences): Version-2.0.15
 

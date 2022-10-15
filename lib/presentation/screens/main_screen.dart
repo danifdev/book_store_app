@@ -1,4 +1,4 @@
-import 'package:books/app/constants/constants.dart';
+import 'package:books/shared/constants.dart';
 import 'package:books/presentation/screens/category/categories.dart';
 import 'package:books/presentation/screens/home/home_screen.dart';
 import 'package:flutter/material.dart';

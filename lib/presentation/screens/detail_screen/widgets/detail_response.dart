@@ -1,4 +1,4 @@
-import 'package:books/app/constants/constants.dart';
+import 'package:books/shared/constants.dart';
 import 'package:books/core/models/books/volume-info.model.dart' as v;
 import 'package:books/presentation/screens/detail_screen/widgets/header.dart';
 import 'package:flutter/material.dart';

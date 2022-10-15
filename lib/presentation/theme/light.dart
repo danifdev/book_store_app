@@ -1,4 +1,4 @@
-import 'package:books/app/constants/constants.dart';
+import 'package:books/shared/constants.dart';
 import 'package:flutter/material.dart';
 import 'package:google_fonts/google_fonts.dart';
 

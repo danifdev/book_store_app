@@ -1,4 +1,4 @@
-import 'package:books/app/constants/constants.dart';
+import 'package:books/shared/constants.dart';
 import 'package:books/core/service/service.dart';
 import 'package:books/presentation/widgets/app_error_widget.dart';
 import 'package:books/presentation/screens/home/books/popular_books.dart';
