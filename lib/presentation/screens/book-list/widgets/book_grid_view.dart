@@ -1,5 +1,5 @@
 import 'dart:math';
-import 'package:books/shared/constants.dart';
+import 'package:books/shared/helpers.dart';
 import 'package:books/core/models/books/items.model.dart';
 import 'package:books/presentation/screens/book-list/widgets/book_img_box.dart';
 import 'package:books/presentation/screens/book-list/widgets/book_info.dart';

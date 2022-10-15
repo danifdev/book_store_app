@@ -2,7 +2,7 @@ import 'package:books/core/models/books/books.dart';
 import 'package:books/core/service/service.dart';
 import 'package:books/presentation/screens/detail_screen/detail_screen.dart';
 import 'package:flutter/material.dart';
-import '../../../../shared/constants.dart';
+import '../../../../shared/helpers.dart';
 
 class PopularBooks extends StatelessWidget {
   const PopularBooks({

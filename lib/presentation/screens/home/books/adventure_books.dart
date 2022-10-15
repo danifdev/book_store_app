@@ -1,6 +1,6 @@
 import 'package:books/core/service/service.dart';
 import 'package:flutter/material.dart';
-import '../../../../shared/constants.dart';
+import '../../../../shared/helpers.dart';
 import '../../../../core/models/books/books.dart';
 import '../../detail_screen/detail_screen.dart';
 
